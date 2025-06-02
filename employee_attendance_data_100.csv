@@ -1,0 +1,101 @@
+user,name,salary,location,date,attendance
+1,Kevin Chambers,83079,USA,2025-04-19,Work From Home
+2,Leon Henderson,109324,INDIA,2025-04-18,On Leave
+3,Julie Bailey,114942,USA,2025-05-01,Absent
+4,Monica Young,68935,INDIA,2025-05-04,On Leave
+5,Nathan Payne,83967,USA,2025-02-15,Absent
+6,Stephen Jacobson,78897,INDIA,2025-03-21,Present
+7,Danielle Harrison,118324,USA,2025-04-28,Present
+8,Nicole Dalton,46170,INDIA,2025-02-15,Present
+9,Matthew Baker,46225,USA,2025-01-26,Present
+10,Emily Hess,43172,INDIA,2025-01-31,Work From Home
+11,Mario Powell,92179,USA,2025-04-14,Absent
+12,Joseph Clark,74135,INDIA,2025-01-03,On Leave
+13,Michael Murphy,91440,USA,2025-01-27,Present
+14,Jeff Soto,51738,INDIA,2025-01-31,Work From Home
+15,Jeffrey Vega,103754,USA,2025-02-11,Present
+16,Mr. Jeffrey Williams,88408,INDIA,2025-04-29,Absent
+17,Angel Gilbert,105958,USA,2025-01-20,Absent
+18,Megan Campbell MD,113560,INDIA,2025-04-27,Work From Home
+19,Daniel Martin,40830,USA,2025-03-19,On Leave
+20,John Soto,68925,INDIA,2025-04-25,Work From Home
+21,Tamara Jones,55484,USA,2025-03-25,On Leave
+22,Kristen Ferrell,92777,INDIA,2025-01-01,Absent
+23,Martha Becker,94193,USA,2025-03-09,On Leave
+24,Maria Price,45098,INDIA,2025-03-10,Present
+25,Tony Lawrence,71694,USA,2025-01-22,On Leave
+26,Lindsay Lang,63330,INDIA,2025-04-17,Present
+27,Kristin Taylor,92279,USA,2025-05-11,Work From Home
+28,Kaitlyn Weber,97615,INDIA,2025-05-16,Absent
+29,Richard Burke,114302,USA,2025-04-09,On Leave
+30,David Henderson,114464,INDIA,2025-02-27,On Leave
+31,Jonathan Dominguez,94121,USA,2025-04-06,On Leave
+32,Christine Mitchell,94442,INDIA,2025-04-03,Work From Home
+33,Michelle Lee,75715,USA,2025-05-13,Present
+34,Laura Cook,57365,INDIA,2025-01-06,Present
+35,Kirsten Henry,71036,USA,2025-03-05,Present
+36,Matthew Santiago,72226,INDIA,2025-01-21,Work From Home
+37,Allison Melendez,60539,USA,2025-05-03,On Leave
+38,Emily Pace,61232,INDIA,2025-04-10,Absent
+39,Nicole Rios,84600,USA,2025-05-11,On Leave
+40,Michael Petersen,68019,INDIA,2025-02-12,Present
+41,Laura Smith,104400,USA,2025-01-05,Work From Home
+42,Mr. Ian Thomas DDS,106564,INDIA,2025-01-05,Present
+43,Glenn Barker,61259,USA,2025-02-13,Work From Home
+44,Monica Sanchez,107627,INDIA,2025-05-07,On Leave
+45,Maria Woods,80338,USA,2025-04-05,Work From Home
+46,Theresa Ingram,55970,INDIA,2025-03-01,Absent
+47,Maria Lewis,119298,USA,2025-05-20,Work From Home
+48,Colleen Graham,76826,INDIA,2025-04-08,Work From Home
+49,Patricia Curry,70404,USA,2025-03-04,On Leave
+50,Jonathan Hawkins,112641,INDIA,2025-04-26,Present
+51,Debra Foster,92505,USA,2025-04-06,Present
+52,Cindy Johnson,101411,INDIA,2025-03-21,Present
+53,Jennifer Page,93310,USA,2025-02-20,Absent
+54,Laurie Roberts,71992,INDIA,2025-02-15,On Leave
+55,Jessica Wright,46166,USA,2025-05-14,Work From Home
+56,Bryce Mckinney,57556,INDIA,2025-04-29,On Leave
+57,Edward Francis,57949,USA,2025-05-28,Present
+58,Andrew Wilson,110548,INDIA,2025-02-24,On Leave
+59,Kristy Mcdaniel,93634,USA,2025-03-02,Present
+60,Chloe Rivas,118642,INDIA,2025-03-27,On Leave
+61,Paul Banks,107877,USA,2025-05-29,Present
+62,Stacy Thomas,90592,INDIA,2025-03-13,On Leave
+63,Joseph Stone,91325,USA,2025-02-18,Present
+64,Devin Mccall,70823,INDIA,2025-04-04,Absent
+65,Steven Brown,107167,USA,2025-04-08,Work From Home
+66,Daniel Hendrix,118439,INDIA,2025-05-19,On Leave
+67,Theresa Gray,107721,USA,2025-03-09,Work From Home
+68,Jennifer Gould,107066,INDIA,2025-01-02,On Leave
+69,Shawn Mcdonald MD,94991,USA,2025-05-25,On Leave
+70,Gerald Cruz,73468,INDIA,2025-05-28,Present
+71,Tyler Harrison,96061,USA,2025-05-18,Work From Home
+72,Cindy Ellis,94095,INDIA,2025-01-28,Present
+73,Stephen Sparks,59438,USA,2025-01-01,Present
+74,Julie Campbell DDS,69070,INDIA,2025-04-15,Work From Home
+75,Rachel Meadows DVM,79295,USA,2025-04-02,Absent
+76,Alexander Curry,47406,INDIA,2025-03-19,On Leave
+77,Mrs. Colleen Kline,107722,USA,2025-03-05,On Leave
+78,John Martinez,41299,INDIA,2025-01-06,Absent
+79,Monique Roberts,84169,USA,2025-01-15,On Leave
+80,Charles Bowen,111438,INDIA,2025-03-02,On Leave
+81,Mark Randolph,44044,USA,2025-01-25,Present
+82,Bailey Burnett,98433,INDIA,2025-05-01,Absent
+83,Cristian Kirby,86437,USA,2025-02-15,Work From Home
+84,Carolyn Dixon,68351,INDIA,2025-01-27,Work From Home
+85,Nancy Huerta,60825,USA,2025-04-18,Present
+86,Mrs. Holly Butler,60648,INDIA,2025-02-11,Work From Home
+87,Rachael Leonard DDS,94547,USA,2025-05-13,Work From Home
+88,Jacqueline Russo,105941,INDIA,2025-01-31,Work From Home
+89,Cassandra Lawrence,62074,USA,2025-05-23,On Leave
+90,Kevin Mathews,113284,INDIA,2025-03-28,On Leave
+91,Gregory Reid,92056,USA,2025-05-15,Work From Home
+92,Steven Jackson,54059,INDIA,2025-05-04,On Leave
+93,Jennifer Perry,66968,USA,2025-05-03,Present
+94,Kelsey Freeman,56223,INDIA,2025-05-08,Present
+95,Shawn Suarez,83412,USA,2025-02-09,Present
+96,Noah Miller,63522,INDIA,2025-03-10,Present
+97,Theodore Goodwin,49006,USA,2025-03-19,Present
+98,Robert Garza,88753,INDIA,2025-02-12,Absent
+99,Roger Williams,50906,USA,2025-04-11,Absent
+100,Terry Flores,87896,INDIA,2025-05-04,Work From Home
