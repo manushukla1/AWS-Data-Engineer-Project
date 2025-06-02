@@ -3,7 +3,7 @@ A serverless AWS project that reads a CSV file uploaded to S3, parses and aggreg
 
 ---
 
-## 📌 Use Case
+## Use Case
 
 Every time a `.csv` file is uploaded to a specified S3 bucket, a Lambda function is triggered to:
 - Read the file content
@@ -13,7 +13,7 @@ Every time a `.csv` file is uploaded to a specified S3 bucket, a Lambda function
 
 ---
 
-## 🧱 Tech Stack
+## Tech Stack
 
 - **AWS Lambda**
 - **Amazon S3**
@@ -29,31 +29,28 @@ Every time a `.csv` file is uploaded to a specified S3 bucket, a Lambda function
 | Upload CSV | ---> | S3 | ---> | Lambda | ---> | S3 (Result)|
 +------------+ +----------+ +-------------+ +----------------+
 
+## How to Deploy
 
-How to Deploy
-Create an S3 bucket
-Example: project-1-stg
+- **Create an S3 bucket**
 
-Upload your Lambda code
+- **Upload your Lambda code**
 
-Go to AWS Lambda Console
+- **Go to AWS Lambda Console**
 
-Create a new function (Python runtime)
+- **Create a new function (Python runtime)**
 
-Paste lambda_function.py or upload a .zip
+- **Paste lambda_function.py or upload a .zip**
 
-Set up S3 trigger
+- **Set up S3 trigger**
 
-Go to the Lambda function > Triggers > Add S3 trigger
+- **Go to the Lambda function > Triggers > Add S3 trigger**
 
-Choose the ObjectCreated event for your bucket
+- **Choose the ObjectCreated event for your bucket**
 
-Attach proper IAM Role
+- **Attach proper IAM Role**
 
-Use the policy above to allow access to s3:GetObject, s3:PutObject, and s3:ListBucket
+- **Use the policy above to allow access to s3:GetObject, s3:PutObject, and s3:ListBucket**
 
-Test by uploading a CSV
+- **Test by uploading a CSV**
 
-Format as shown above
-
-View the logs or the result file in S3
+- **View the logs or the result file in S3**
