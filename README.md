@@ -25,9 +25,7 @@ Every time a `.csv` file is uploaded to a specified S3 bucket, a Lambda function
 
 ## 🔁 Architecture
 
-+------------+ +----------+ +-------------+ +----------------+
 | Upload CSV | ---> | S3 | ---> | Lambda | ---> | S3 (Result)|
-+------------+ +----------+ +-------------+ +----------------+
 
 ## How to Deploy
 
